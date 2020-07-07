@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">ExamenDiciembre2019-2020</string>
+    <string name="emailId" translatable="false">Type Email ID</string>
+    <string name="typePassword" translatable="false">Type Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="enviar">enviar</string>
+    <string name="deseo" translatable="true">Desea recibir información por email?</string>
+    <string name="out" translatable="true">Sign Out</string>
+    <string name="nombre" translatable="true">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="salir" translatable="false">Salir</string>
+
+
+</resources>
